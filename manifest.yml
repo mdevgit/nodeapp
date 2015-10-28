@@ -1,0 +1,8 @@
+---
+applications:
+- name: nodeapptest
+  memory: 256M
+  instances: 1
+  host: nodeapptest
+  path: .
+
