@@ -6,7 +6,7 @@ deploy:
   edge: true
   provider: cloudfoundry
   username: devanand.madhavan@verizon.com
-  password: PWSC1305K$
+  password: PWSC2015K$
   api: https://api.run.pivotal.io
   organization: VzCF
   space: developent
